@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 reset test another sdfs df sdfsdfsdf sdfsdfsdfsdfssdfsdfsdfsdf sdfsdfs dsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf
+=======
+reset test another sdfs df sdfsdfsdf sdfsdfsdfsdfssdfsdfsdfsdf sdfsdfs dsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfdsfsdfsdfsdf
+>>>>>>> origin/master
